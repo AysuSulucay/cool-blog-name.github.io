@@ -1,4 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
 title: <cool_blog_name> 🙃
 author: Ice🧊
 description: I do not know what I should write ¯\_(ツ)_/¯
