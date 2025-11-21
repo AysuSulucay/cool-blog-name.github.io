@@ -9,6 +9,7 @@ My coding journey started with Java and continued with MATLAB. After that, I sta
 
 I am using [minima](https://github.com/jekyll/minima) as a theme but I want to make some changes especially on the colour palette or scheme or whatever it is called. 
 I wanna use Dracula colour scheme I just love it 🥰 yet I found that it is more challenging than I expected because I lack experience in HTML and CSS. 
-Thus, this post will be my journal for the journey of customising my blog website 
+Thus, this post will be my journal for the journey of customising my blog website (ofc I'll get help from AI 🙄)
 
 ![giphy](https://github.com/user-attachments/assets/fde40cdf-7401-44fd-9221-6ef0491c500d)
+
